@@ -1,16 +1,24 @@
-VMware Virtual Network Lab
+# VMware Virtual Network Lab
 
-This project simulates a small office IT environment using VMware virtual machines.
+## Environment
+- Windows 10 VM
+- Ubuntu (24.04) VM
+- Fedora 43 VM
+- VMware Workstation
 
-Virtual Machines Used
-- Ubuntu(24.04)
-- Fedora 43
-- Windows 10
+## Network Configuration
+Static IP addresses were assigned to each machine.
 
-Tasks Performed
-- Checked IP addresses using ip a and ipconfig
-- Tested connectivity between machines using ping
-- Troubleshooted Windows firewall blocking ICMP
+Example:
+Windows  → 192.168.163.11
+Ubuntu   → 192.168.163.12
+Fedora   → 192.168.163.13
 
-Result
-All machines successfully communicated over the VMware NAT network.
+## Connectivity Testing
+Network communication verified using ping.
+
+## File Sharing
+A Windows shared folder was accessed from Linux using SMB.
+
+## Remote Access
+SSH configured between Linux machines for remote administration.
