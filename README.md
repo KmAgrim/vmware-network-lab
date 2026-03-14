@@ -3,8 +3,8 @@ VMware Virtual Network Lab
 This project simulates a small office IT environment using VMware virtual machines.
 
 Virtual Machines Used
-- Ubuntu Linux
-- Fedora Linux
+- Ubuntu(24.04)
+- Fedora 43
 - Windows 10
 
 Tasks Performed
