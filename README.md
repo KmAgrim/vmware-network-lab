@@ -23,11 +23,8 @@ A Windows shared folder was accessed from Linux using SMB.
 ### Shared Folder on Windows
 ![Windows shared folder](screenshots/windows-share.png)
 ### Accessing the file via Samba on Linux
-<p align="center">
-  <img src="screenshots/fedora-smb.jpg" width="400" />
-  <img src="screenshots/fedora-smb-file.jpg" width="400" />
-</p>
-
+![fedora-smb](screenshots/fedora-smb.jpg)
+![fedora-smb](screenshots/fedora-smb-file.jpg)
 
 ## Remote Access
 SSH configured between Linux machines for remote administration.
