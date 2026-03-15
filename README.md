@@ -20,6 +20,10 @@ Network communication verified using ping.
 
 ## File Sharing
 A Windows shared folder was accessed from Linux using SMB.
+### Shared Folder on Windows
+![windows-file](screenshots/windows-share.png)
+### Accessing the file via Samba on Linux
+![Fedora SMB access](screenshots/fedora-smb.png) ![Fedora file accesss](screenshots/fedora-smb-file.png)
 
 ## Remote Access
 SSH configured between Linux machines for remote administration.
