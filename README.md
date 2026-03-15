@@ -1,10 +1,10 @@
 # VMware Virtual Network Lab
 
-##Environment
+## Environment
 - Windows 10 VM
 - Ubuntu (24.04) VM
 - Fedora 43 VM
-- VMware Workstation
+
 ![VMware](screenshots/vms_vmware.jpg)
 
 ## Network Configuration
