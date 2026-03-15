@@ -24,8 +24,8 @@ A Windows shared folder was accessed from Linux using SMB.
 ![Windows shared folder](screenshots/windows-share.png)
 ### Accessing the file via Samba on Linux
 <p align="center">
-  <img src="screenshots/fedora-smb.png" width="45%" />
-  <img src="screenshots/fedora-smb-file.png" width="45%" />
+  <img src="screenshots/fedora-smb.png" width="400" />
+  <img src="screenshots/fedora-smb-file.png" width="400" />
 </p>
 
 
