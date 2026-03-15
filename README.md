@@ -1,9 +1,9 @@
 # VMware Virtual Network Lab
 
 ## Environment
-- Windows 10 VM
-- Ubuntu (24.04) VM
-- Fedora 43 VM
+- Windows 10
+- Ubuntu (24.04)
+- Fedora 43
   ### VMWare Environment
 ![VMware](screenshots/vms_vmware.jpg)
 
