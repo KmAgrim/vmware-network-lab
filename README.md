@@ -11,8 +11,8 @@ Static IP addresses were assigned to each machine.
 
 Example:
 Windows  → 192.168.163.11
-Ubuntu   → 192.168.163.12
-Fedora   → 192.168.163.13
+Ubuntu   → 192.168.163.10
+Fedora   → 192.168.163.12
 
 ## Connectivity Testing
 Network communication verified using ping.
