@@ -22,4 +22,4 @@ A Windows shared folder was accessed from Linux using SMB.
 
 ## Remote Access
 SSH configured between Linux machines for remote administration.
-![SSH](screenshots/ssh login.png)
+![SSH](screenshots/ssh-login.png)
