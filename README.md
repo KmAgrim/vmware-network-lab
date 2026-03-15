@@ -1,5 +1,12 @@
 # VMware Virtual Network Lab
 
+![Platform](https://img.shields.io/badge/platform-VMware-blue)
+![OS](https://img.shields.io/badge/OS-Windows%20%7C%20Linux-green)
+![Focus](https://img.shields.io/badge/focus-Networking%20Lab-orange)
+
+A small virtualization lab simulating a multi-machine office network using VMware.  
+The environment includes Windows and Linux virtual machines communicating over a private network with static IP configuration, SMB file sharing, and SSH remote access.
+
 ## Environment
 - Windows 10
 - Ubuntu (24.04)
