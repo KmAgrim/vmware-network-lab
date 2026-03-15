@@ -8,9 +8,12 @@ A small virtualization lab simulating a multi-machine office network using VMwar
 The environment includes Windows and Linux virtual machines communicating over a private network with static IP configuration, SMB file sharing, and SSH remote access.
 
 ## Environment
-- Windows 10
-- Ubuntu (24.04)
-- Fedora 43
+| Machine | OS | Role | IP |
+|-------|------|------|------|
+| Windows VM | Windows 10 | File Server | 192.168.163.11 |
+| Ubuntu VM | Lubuntu 24.04 | SSH Server | 192.168.163.10 |
+| Fedora VM | Fedora 43 | Client Machine | 192.168.163.12 |
+
   ### VMWare Environment
 ![VMware](screenshots/vms_vmware.jpg)
 
