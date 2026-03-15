@@ -5,7 +5,7 @@
 - Ubuntu (24.04) VM
 - Fedora 43 VM
 
-![VMware](screenshots/vms_vmware.jpg)
+![VMware] (screenshots/vms_vmware.jpg)
 
 ## Network Configuration
 Static IP addresses were assigned to each machine.
